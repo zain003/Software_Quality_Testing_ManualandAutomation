@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="hamcrest-core-2.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hamcrest-core-2.2.jar!/" />
+      <root url="file://$PROJECT_DIR$" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Hotel Management System/src" />
+      <root url="file://$PROJECT_DIR$" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$" recursive="false" type="SOURCES" />
+  </library>
+</component>

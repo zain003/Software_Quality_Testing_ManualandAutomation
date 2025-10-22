@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="assertj-swing-3.17.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assertj-swing-3.17.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
